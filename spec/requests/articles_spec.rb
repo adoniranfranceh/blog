@@ -18,4 +18,3 @@ RSpec.describe 'Articles' do
     end
   end
 end
-

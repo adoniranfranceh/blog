@@ -15,4 +15,3 @@ articles = [
 ]
 
 Article.create(articles)
-
